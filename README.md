@@ -1,24 +1,24 @@
-<!-- Github Profile  -->
+<!-- GitHub profile -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:08111F,50:1D4ED8,100:06B6D4&height=220&section=header&text=Juan%20Diego%20Rodr%C3%ADguez&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Backend%20Engineering%20%7C%20Applied%20AI&descAlignY=58&descSize=18&descColor=BAE6FD" alt="Juan Diego Rodriguez profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:18111F,50:7C3AED,100:DB2777&height=210&section=header&text=Juan%20Diego%20Rodr%C3%ADguez&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Applied%20AI%20%7C%20DevSecOps&descAlignY=55&descSize=17&descColor=F5D0FE" alt="Juan Diego Rodriguez profile banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2300&pause=750&color=38BDF8&center=true&vCenter=true&width=780&height=155&lines=%24+whoami;Juan+Diego+Rodr%C3%ADguez;%24+cat+focus.txt;Backend+Systems+%7C+Applied+AI+%7C+DevSecOps;%24+status;Building+useful%2C+secure%2C+maintainable+software.;%5B%23%23%23%23%23%23%23%23%5D+Ready." alt="Animated terminal introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=780&height=55&lines=Backend+Engineering+%7C+Applied+AI+%7C+DevSecOps;FastAPI+%7C+React+%7C+Docker+%7C+PostgreSQL;Building+useful%2C+secure%2C+maintainable+software" alt="Animated professional focus"/>
 
 <br>
 
 <a href="https://github.com/JuanDiegoRV?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=08111F" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=18111F" alt="Explore repositories"/>
 </a>
 
 <a href="https://github.com/JuanDiegoRV?tab=followers">
-<img src="https://img.shields.io/github/followers/JuanDiegoRV?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=0891B2&labelColor=08111F" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/JuanDiegoRV?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=DB2777&labelColor=18111F" alt="GitHub followers"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=JuanDiegoRV&style=for-the-badge&label=PROFILE+VIEWS&color=0891B2&labelColor=08111F" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=JuanDiegoRV&style=for-the-badge&label=PROFILE+VIEWS&color=DB2777&labelColor=18111F" alt="Profile views"/>
 
 </div>
 
@@ -133,11 +133,11 @@ Stack
 <br>
 
 <a href="https://tracop.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="TRACOP live demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-DB2777?style=for-the-badge&logo=vercel&logoColor=white" alt="TRACOP live demo"/>
 </a>
 
 <a href="https://github.com/JuanDiegoRV/tracop">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="TRACOP repository"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="TRACOP repository"/>
 </a>
 
 </td>
@@ -169,7 +169,7 @@ Stack
 <br>
 
 <a href="https://github.com/DannielEU/HexaFlow-AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="HexaFlow AI repository"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="HexaFlow AI repository"/>
 </a>
 
 </td>
@@ -205,7 +205,7 @@ Stack
 <br>
 
 <a href="https://github.com/CoreToolkit/LaborIABackend">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="LaborIA Backend repository"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="LaborIA Backend repository"/>
 </a>
 
 </td>
@@ -272,7 +272,7 @@ Personalized Improvement Plan
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Understand+the+problem+%7C+Design+with+clarity;Build+small+%7C+Test+what+matters+%7C+Ship+safely;Measure+the+result+%7C+Improve+continuously" alt="Engineering approach"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=760&height=55&lines=Understand+the+problem+%7C+Design+with+clarity;Build+small+%7C+Test+what+matters+%7C+Ship+safely;Measure+the+result+%7C+Improve+continuously" alt="Engineering approach"/>
 
 </div>
 
@@ -280,13 +280,13 @@ GitHub analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoRV&show_icons=true&include_all_commits=true&hide_border=true&bg_color=08111F&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1" alt="Juan Diego GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoRV&show_icons=true&include_all_commits=true&hide_border=true&bg_color=18111F&title_color=C084FC&icon_color=F472B6&text_color=E5E7EB" alt="Juan Diego GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoRV&layout=compact&langs_count=8&hide_border=true&bg_color=08111F&title_color=38BDF8&text_color=CBD5E1" alt="Juan Diego most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoRV&layout=compact&langs_count=8&hide_border=true&bg_color=18111F&title_color=C084FC&text_color=E5E7EB" alt="Juan Diego most used languages"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoRV&hide_border=true&bg_color=08111F&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=0891B2" alt="Juan Diego GitHub activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoRV&hide_border=true&bg_color=18111F&color=C084FC&line=9333EA&point=FFFFFF&area=true&area_color=DB2777" alt="Juan Diego GitHub activity graph"/>
 
 </div>
 
@@ -295,11 +295,11 @@ Contact
 <div align="center">
 
 <a href="mailto:jd.rvelasquezp@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan Diego"/>
+<img src="https://img.shields.io/badge/EMAIL-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan Diego"/>
 </a>
 
 <a href="https://github.com/JuanDiegoRV">
-<img src="https://img.shields.io/badge/GITHUB-08111F?style=for-the-badge&logo=github&logoColor=white" alt="Juan Diego GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-18111F?style=for-the-badge&logo=github&logoColor=white" alt="Juan Diego GitHub profile"/>
 </a>
 
 <br><br>
@@ -312,6 +312,6 @@ Build software that is useful, understandable, and ready to improve.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,50:1D4ED8,100:08111F&height=120&section=footer&reversal=true" alt="Profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:DB2777,50:7C3AED,100:18111F&height=120&section=footer&reversal=true" alt="Profile footer"/>
 
 </div>
