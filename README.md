@@ -1,147 +1,317 @@
+<!-- Github Profile  -->
+
 <div align="center">
 
-Hi, I'm Juan Diego Rodríguez
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:08111F,50:1D4ED8,100:06B6D4&height=220&section=header&text=Juan%20Diego%20Rodr%C3%ADguez&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Backend%20Engineering%20%7C%20Applied%20AI&descAlignY=58&descSize=18&descColor=BAE6FD" alt="Juan Diego Rodriguez profile banner"/>
 
-Software Development · Applied AI · Data
+<br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Turning+ideas+into+working+software;Learning+AI+from+first+principles;Building+clear%2C+useful+digital+products"
-alt="Typing introduction"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2300&pause=750&color=38BDF8&center=true&vCenter=true&width=780&height=155&lines=%24+whoami;Juan+Diego+Rodr%C3%ADguez;%24+cat+focus.txt;Backend+Systems+%7C+Applied+AI+%7C+DevSecOps;%24+status;Building+useful%2C+secure%2C+maintainable+software.;%5B%23%23%23%23%23%23%23%23%5D+Ready." alt="Animated terminal introduction"/>
+
+<br>
+
+<a href="https://github.com/JuanDiegoRV?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=08111F" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/JuanDiegoRV?tab=followers">
+<img src="https://img.shields.io/github/followers/JuanDiegoRV?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=0891B2&labelColor=08111F" alt="GitHub followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=JuanDiegoRV&style=for-the-badge&label=PROFILE+VIEWS&color=0891B2&labelColor=08111F" alt="Profile views"/>
 
 </div>
 
 About me
 
-I build practical software and AI-assisted systems, with a strong interest in understanding how products work from interface to infrastructure. My work combines responsive web applications, backend architecture, AI integrations, data persistence, and secure delivery workflows.
+I build software products that connect clear interfaces, reliable backend services, applied AI, and secure delivery workflows.
 
-I design APIs and services with clear, testable components.
-
-I integrate AI providers into products with deterministic rules and operational safeguards.
-
-I automate testing, security analysis, and deployment through CI/CD workflows.
-
-Featured projects
-
-TRACOP — Product-origin traceability
-
-A responsive agricultural traceability application that follows lots from planting to collection. It brings operational records, progress indicators, dashboards, visual timelines, and QR identification into one interface.
-
-<code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Tailwind CSS</code>
-
-Live demo · Repository
-
-<details>
-<summary><strong>Explore the functionality</strong></summary>
-<br>
-
-Records planting, harvesting, transport, and collection activities.
-
-Displays operational indicators and recent activity in a central dashboard.
-
-Reconstructs each lot's history through a visual timeline.
-
-Generates downloadable and printable QR codes.
-
-Works as a frontend demonstration with browser-based local storage.
-
-</details>
-
-HexaFlow AI — Intelligent security gate for CI/CD
-
-A FastAPI security service that analyzes container images and decides whether a deployment should be approved, warned, or rejected. It combines deterministic OWASP rules, Trivy reports, Dockerfile secret detection, CVE exceptions, scan history, and optional AI analysis.
-
-<code>Python</code> · <code>FastAPI</code> · <code>Docker</code> · <code>Trivy</code> · <code>SQLAlchemy</code> · <code>PostgreSQL</code> · <code>Ollama</code>
-
-<details>
-<summary><strong>Explore the functionality</strong></summary>
-<br>
-
-Detects hardcoded credentials before any other security check.
-
-Applies deterministic vulnerability thresholds and time-limited CVE exceptions.
-
-Supports Ollama, OpenAI, Anthropic, or a rules-only execution mode.
-
-Persists scan history and reports whether an image is improving or worsening.
-
-Includes authentication, rate limiting, a dashboard, and CI/CD exit codes.
-
-</details>
-
-LaborIA Backend — AI-assisted talent platform
-
-A production-oriented backend for managing professional profiles, roles, technologies, interview sessions, evaluations, job matching, recommendations, and improvement plans. It integrates language and speech services while keeping authentication, persistence, testing, and deployment concerns separated.
-
-<code>Python</code> · <code>FastAPI</code> · <code>SQLAlchemy</code> · <code>Alembic</code> · <code>PostgreSQL</code> · <code>Azure OpenAI</code> · <code>Docker</code>
-
-<details>
-<summary><strong>Explore the functionality</strong></summary>
-<br>
-
-Provides APIs for profiles, roles, technologies, interviews, evaluations, metrics, and recommendations.
-
-Supports AI-assisted matching, interview workflows, and personalized improvement plans.
-
-Integrates Azure OpenAI, Ollama, Azure Speech, ElevenLabs, and WebSockets.
-
-Uses JWT middleware, Microsoft and Google authentication flows, migrations, and rate limiting.
-
-Enforces automated tests, minimum coverage, container scanning, a security gate, and controlled deployment in CI/CD.
-
-</details>
-
-Experience demonstrated in my work
-
-Area
-
-What I have built
-
-Web development
-
-Responsive interfaces, forms, dashboards, timelines, and QR-based flows with React and TypeScript
-
-Backend engineering
-
-REST and WebSocket APIs, authentication, rate limiting, persistence, migrations, and modular services with FastAPI
-
-AI integration
-
-Provider-based integrations for language, speech, security analysis, matching, interviews, and recommendations
-
-DevSecOps
-
-Automated tests, coverage gates, Docker builds, Trivy scanning, deployment decisions, and GitHub Actions workflows
-
-Data persistence
-
-Relational models and repositories using SQLAlchemy with PostgreSQL or SQLite
-
-Tools I use
+My projects range from product traceability to AI-assisted talent platforms and intelligent security gates for CI/CD. I enjoy translating requirements into maintainable systems, understanding how components interact, and documenting the decisions behind the implementation.
 
 <div align="center">
 
-<img
-src="https://skillicons.dev/icons?i=python,fastapi,ts,react,tailwind,vite,docker,postgres,azure,git,github,vscode&theme=light"
-alt="Python, FastAPI, TypeScript, React, Tailwind CSS, Vite, Docker, PostgreSQL, Azure, Git, GitHub, and Visual Studio Code"
-/>
 
-<br><br>
+
+
+
 
 </div>
 
-GitHub activity
+Engineering profile
+
+Area
+
+Experience demonstrated in my projects
+
+Backend engineering
+
+FastAPI services, REST and WebSocket APIs, authentication, rate limiting, persistence, migrations, and modular architectures
+
+Applied AI
+
+Language and speech providers, AI-assisted matching, interviews, recommendations, and contextual security analysis
+
+DevSecOps
+
+Docker, GitHub Actions, automated tests, coverage gates, Trivy scanning, and deployment decisions
+
+Product development
+
+Responsive interfaces, dashboards, workflows, traceability timelines, and QR-based identification
+
+Technology stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoRV&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=0EA5E9&text_color=64748B" alt="Juan Diego's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoRV&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B" alt="Juan Diego's most used languages" />
+Languages
+
+
+
+
+Backend and AI
+
+
+
+
+
+
+
+Frontend
+
+
+
+
+
+Data and infrastructure
+
+
+
+
+
+
+
+Quality and security
+
+
+
+
+
+
+</div>
+
+Featured projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+TRACOP
+
+Product-origin traceability
+
+A responsive agricultural traceability application that follows lots from planting to collection in one operational interface.
+
+Core functionality
+
+Records planting, harvesting, transport, and collection activities
+
+Centralizes operational indicators in a dashboard
+
+Reconstructs each lot through a visual timeline
+
+Generates downloadable and printable QR codes
+
+Provides a responsive browser-based demonstration
+
+Stack
+
+<code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code>
+
+<br>
+
+<a href="https://tracop.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="TRACOP live demo"/>
+</a>
+
+<a href="https://github.com/JuanDiegoRV/tracop">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="TRACOP repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+HexaFlow AI
+
+Intelligent security gate for CI/CD
+
+A FastAPI service that analyzes container images and returns an approved, warning, or rejected deployment decision.
+
+Core functionality
+
+Detects hardcoded secrets before other checks
+
+Evaluates Trivy reports with deterministic OWASP rules
+
+Supports time-limited CVE exceptions and scan history
+
+Integrates Ollama, OpenAI, Anthropic, or rules-only mode
+
+Provides authentication, rate limiting, and security dashboards
+
+Stack
+
+<code>Python</code> <code>FastAPI</code> <code>Docker</code> <code>Trivy</code> <code>SQLAlchemy</code> <code>PostgreSQL</code>
+
+<br>
+
+<a href="https://github.com/DannielEU/HexaFlow-AI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="HexaFlow AI repository"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+LaborIA Backend
+
+AI-assisted talent platform
+
+A production-oriented backend for professional profiles, role matching, interview sessions, evaluations, recommendations, and personalized improvement plans.
+
+Core functionality
+
+Manages profiles, roles, technologies, questions, sessions, and evaluations
+
+Supports AI-assisted matching, interviews, recommendations, and improvement plans
+
+Integrates Azure OpenAI, Ollama, Azure Speech, ElevenLabs, and WebSockets
+
+Implements JWT middleware, Microsoft and Google authentication, migrations, and rate limiting
+
+Runs automated tests, coverage checks, container scanning, and controlled deployment in CI/CD
+
+Stack
+
+<code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Alembic</code> <code>PostgreSQL</code> <code>Azure OpenAI</code> <code>Docker</code>
+
+<br>
+
+<a href="https://github.com/CoreToolkit/LaborIABackend">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="LaborIA Backend repository"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+Engineering highlights
+
+<details>
+<summary><strong>HexaFlow decision pipeline</strong></summary>
+<br>
+
+<pre>
+CI/CD Pipeline
+      |
+      v
+Container Build
+      |
+      v
+Trivy Report + Dockerfile
+      |
+      v
+Secrets Detection
+      |
+      v
+OWASP Rules + CVE Exceptions
+      |
+      v
+Optional AI Context
+      |
+      v
+APPROVED | WARNING | REJECTED
+</pre>
+
+</details>
+
+<details>
+<summary><strong>LaborIA product workflow</strong></summary>
+<br>
+
+<pre>
+Professional Profile
+        |
+        v
+Role and Technology Matching
+        |
+        v
+Interview Session
+        |
+        v
+Evaluation and Metrics
+        |
+        v
+Recommendations
+        |
+        v
+Personalized Improvement Plan
+</pre>
+
+</details>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Understand+the+problem+%7C+Design+with+clarity;Build+small+%7C+Test+what+matters+%7C+Ship+safely;Measure+the+result+%7C+Improve+continuously" alt="Engineering approach"/>
+
+</div>
+
+GitHub analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoRV&show_icons=true&include_all_commits=true&hide_border=true&bg_color=08111F&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1" alt="Juan Diego GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoRV&layout=compact&langs_count=8&hide_border=true&bg_color=08111F&title_color=38BDF8&text_color=CBD5E1" alt="Juan Diego most used languages"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoRV&hide_border=true&bg_color=08111F&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=0891B2" alt="Juan Diego GitHub activity graph"/>
 
 </div>
 
 Contact
 
 <div align="center">
-<sub>Build · Measure · Learn</sub>
+
+<a href="mailto:jd.rvelasquezp@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan Diego"/>
+</a>
+
+<a href="https://github.com/JuanDiegoRV">
+<img src="https://img.shields.io/badge/GITHUB-08111F?style=for-the-badge&logo=github&logoColor=white" alt="Juan Diego GitHub profile"/>
+</a>
+
+<br><br>
+
+Build software that is useful, understandable, and ready to improve.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,50:1D4ED8,100:08111F&height=120&section=footer&reversal=true" alt="Profile footer"/>
 
 </div>
